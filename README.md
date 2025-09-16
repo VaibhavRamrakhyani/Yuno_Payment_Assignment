@@ -22,5 +22,5 @@ npm install
 ## 🚀 Installation
 
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/VaibhavRamrakhyani/Yuno_Payment_Assignment.git
 cd repo-name
