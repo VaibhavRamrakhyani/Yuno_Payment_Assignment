@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+/* Yuno Secure Fields Styling */
+#sf-pan,
+#sf-expiration,
+#sf-cvv {
+  display: block;
+  width: 100%;
+  min-height: 44px; /* ensures iframe is visible/clickable */
+  padding: 10px 12px;
+  font-size: 16px;
+  line-height: 1.4;
+  border: 1px solid #d1d5db; /* gray-300 */
+  border-radius: 8px;
+  background-color: #fff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-sizing: border-box;
+  margin-bottom: 8px;
+}
+
+/* Focus style */
+#sf-pan:focus-within,
+#sf-expiration:focus-within,
+#sf-cvv:focus-within {
+  border-color: #3b82f6; /* blue-500 */
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.3);
+  outline: none;
+}
+
+
