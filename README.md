@@ -1,3 +1,5 @@
+
+
 # Project Setup Guide
 
 This project has two parts:
@@ -5,6 +7,7 @@ This project has two parts:
 - **Server** (backend)
 
 Both need to be installed and run separately.
+
 
 ---
 
@@ -26,3 +29,7 @@ npm run dev
 
 git clone https://github.com/VaibhavRamrakhyani/Yuno_Payment_Assignment.git
 cd repo-name
+
+## 🚀 Demo
+
+https://www.loom.com/share/dcc542013e6c4f859bc7e9876c7b7baf?sid=933053c0-12b5-4d69-a9b7-66f72867c39b
